@@ -27,7 +27,9 @@ async def help_cb(c, m):
 
 **How to enable uploader details in caption**
 
-★ Use /mode command to change and also you can use `/mode channel_id` to control caption for channel msg."""
+★ Use /mode command to change and also you can use `/mode channel_id` to control caption for channel msg
+
+~ Made By @TheTeleRoid."""
 
     # creating buttons
     buttons = [
@@ -70,11 +72,11 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [BOT UPDATES](https://t.me/TeleRoidGroup)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+👥 𝐆𝐫𝐨𝐮𝐩: [BOT SUPPORT](https://t.me/TeleRoid14)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/Ns-Bots/TG-File-Store)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/PayForBotz/TG-File-Store)
 """
 
     # creating buttons
